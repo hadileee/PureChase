@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PureChase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="introTitle">Discover <font color="#B1371F">Tunisia</font>\'s Best, \n Delivered to Your Doorstep</string>
+    <string name="introSubtitle">Get personalized recommendations \n Shop smart, save big</string>
+    <string name="signin">Already have an account? <font color="#B1371F">Sign In</font></string>
+</resources>

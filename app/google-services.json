@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061427298959",
+    "project_id": "purechase-27167",
+    "storage_bucket": "purechase-27167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061427298959:android:fa355e48088fee97dea6fa",
+        "android_client_info": {
+          "package_name": "com.example.purechase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv96hArq3K2D-gJ_YdzrjqBQfTG91Hf6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
